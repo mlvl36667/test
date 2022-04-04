@@ -14,6 +14,7 @@ ETHWORKER=3090_japan
 TONPOOL=wss://eu1.stratum.ton-pool.com/stratum
 TONWALLET=EQDVmmN5Fgsx5YfLO-fa4o5SeFYjETYHHhYamHpbWoFT6un-
 
+nano_36mdyqincfo7dz5iagp17jja9r3wix5ecu4zzk661r4asps3ifw3ipwg19y4
 
 
 #################################
