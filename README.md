@@ -16,6 +16,7 @@ TONWALLET=EQDVmmN5Fgsx5YfLO-fa4o5SeFYjETYHHhYamHpbWoFT6un-
 
 nano_36mdyqincfo7dz5iagp17jja9r3wix5ecu4zzk661r4asps3ifw3ipwg19y4
 
+nano_3ctj9nt3g97n35m4d9pkcxwqaqydftxgaw55ye5nwut6tbjpz8yuxs5dt37f
 
 #################################
 ##  End of user-editable part  ##
